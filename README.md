@@ -1,4 +1,6 @@
 # Eldara
+Ana Caroliny Virgilio de Medeiros
+Aretuza Raquely de Oliveira Costa
 
 # Descrição
 Eldara  é um jogo desenvolvido na Godot Engine como projeto da disciplina de Computação Gráfica.  
