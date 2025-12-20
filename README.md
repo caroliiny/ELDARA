@@ -1,5 +1,5 @@
 # Eldara
-Ana Caroliny Virgilio de Medeiros
+Ana Caroliny Virgilio de Medeiros,
 Aretuza Raquely de Oliveira Costa
 
 # Descrição
